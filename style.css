@@ -1,0 +1,43 @@
+body
+{
+  color: white;
+  background: pink;
+}
+.heading
+{
+font-size: 25px;
+color: aqua;
+letter-spacing: 10px;
+border-radius: 15px;  
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#emotion1 ,#emotion2  
+{
+  color: black;
+}
+.emotion
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+label
+{
+border-radius: 15px;
+font-size: 20px;
+color: blue;
+background-color: yellow;
+padding: 7px;
+}
